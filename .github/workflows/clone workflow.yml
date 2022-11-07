@@ -15,4 +15,4 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             cd /pub/sophjorg/
-            vim CMSC389T-Web-Template
+            vim /sophiejorgensen/CMSC389T-Web-Template
