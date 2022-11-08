@@ -15,4 +15,4 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             cd /pub/sophjorg/
-            git clone https://github.com/sophiejorgensen/CMSC389T-Web-Template.git .
+            git clone https://github.com/sophiejorgensen/CMSC389T-Web-Template.git
